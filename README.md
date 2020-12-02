@@ -17,3 +17,5 @@ $ docker run -it cskarby/kata-v2-centos8-fail
 ERROR: kata-collect-data.sh: cannot find runtime ''
 [root@23e50414a5ad /]# 
 ```
+
+Reported as bug to the kata-containers project, see their issue [#1164](https://github.com/kata-containers/kata-containers/issues/1164).
